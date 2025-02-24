@@ -1,11 +1,14 @@
 # To Do
 
-### Final Deliverables
+## Final Deliverables
+### Written
 - High concept blurb
+- Narrative breakdown
+
+### Visual
 - Façade
 - General Layout
 - Queue
-- Narrative breakdown
 - Vehicle
 - Staff costumes
 - Scene art:
