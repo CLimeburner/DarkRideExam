@@ -1,16 +1,16 @@
 # To Do
 
-- Determine source material
-- Determine ride system
-- Write preliminary high concept blurb
-
-
 ### Final Deliverables
 - High concept blurb
 - Façade
-- Layout
+- General Layout
 - Queue
 - Narrative breakdown
-- Scene art
 - Vehicle
 - Staff costumes
+- Scene art:
+  - Drop off the waterfall
+  - Werewolf attack
+  - Led astray by Will-o-Wisps
+  - Dragged to Hell
+  - Steeple of Trois Pistoles
