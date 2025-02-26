@@ -7,12 +7,12 @@ Guests board their coaster train—shaped like a large canoe—along a gentle fl
 **1 - Northern Forest**
 Mood: Gentle, mysterious, unsettling
 Intensity: Low
-The train proceeds at a steady pace down the river, past a well-dressed gentleman with cat-like eyes and forked tail. This figure—the devil—briefly explains the deal: he will give their canoe the power of flight so the guests can fly home...
+The train proceeds at a steady pace down the river, past a well-dressed gentleman with cat-like eyes and forked tail. This figure—the devil—briefly explains the deal he offers: he will give the guests' canoe the power of flight so they can fly home...
 
 **2 - Waterfall**
 Mood: Anxious, building tension
 Intensity: Low/Medium
-...but turning a corner, the guests find themselves staring down a waterfall ahead. The devil's face appears in a screen of mist warning them that if he or his minions catch the guests first, then their souls are his. The ride vehicle passes through the mist screen and initially drops, but then pulls out of the drop, soaring into the night sky.
+...but turning a corner, the guests find themselves staring down a waterfall ahead. The devil's face appears in a screen of mist warning them that if he or his minions catch the guests first, then their souls are his to keep. The ride vehicle passes through the mist screen and initially drops, but then pulls out of freefall, soaring into the night sky.
 
 **3 - Full Moon**
 Mood: Relief, foreboding
@@ -22,22 +22,22 @@ As the ride vehicle soars through the air, the full moon hangs low in the sky, s
 **4 - Logging Camp**
 Mood: Tense, scary, urgent
 Intensity: High
-As the canoe roars through a destroyed logging camp to escape the fearsome loup garou, the beast topples trees that appear to fall towards the ride vehicle as it swerves to avoid them.
+As the canoe roars through a destroyed logging camp to escape the fearsome loup garou, the beast topples trees that appear to fall towards the ride vehicle as the canoe banks sharply into to trunks to avoid collision. The werewolf makes one last swipe at the guests before he's left behind in the tangled mess of felled trees.
 
 **5 - Led Astray**
 Mood: Gentle, inquisitive, suspenseful
 Intensity: Low
-Leaving the loup garou behind, the ride vehicle takes a gentler pace, winding between the trees towards feintly glowing lights in the distance. The devil's voice urges the guests to go toward the light, after all, what could do wrong following a will-o-wisp into the woods...
+Leaving the loup garou behind, the ride vehicle takes a gentler pace, winding between the trees towards faintly glowing lights that seem to drift deeper and deeper into the woods. The devil's voice urges the guests to go toward the light, after all, what could do wrong following a will-o-wisp into the woods.
 
 **6 - Great Balls of Fire**
 Mood: Threatening, shocking
 Intensity: Medium
-...the canoe reaches the balls of light, suspended in the air, which suddenly flair into gouts of flame that blast heat at the guests before extinguishing suddenly in a spray of water as the fierce cry of the Corriveau splits the relative silence.
+The canoe reaches the balls of light, suspended in the air, which suddenly flair into gouts of flame that blast heat at the guests before extinguishing suddenly in a spray of water as the fierce cry of the Corriveau splits the relative silence and the caged women burst from the trees to pursue the guests.
 
 **7 - Clattering of the Cage**
 Mood: Hasty, fearful
 Intensity: High
-The ride vehicle swerves through the night, pursued by the Corriveau who can be seen and heard briefly between the tree, clattering alongside the canoe in her gibbet cage. The voice of the devil refers to the woman executed and doomed forever to roam the woods—just like the guests are about to be...
+The ride vehicle swerves through the night, pursued by the Corriveau who can be seen and heard briefly between the tree, clattering alongside the canoe in her gibbet cage. The voice of the devil refers to the woman executed and doomed forever to roam the woods—just like the guests are about to be.
 
 **8 - Almost Dragged to Hell**
 Mood: Tense, scary, threatening
