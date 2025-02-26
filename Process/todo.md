@@ -10,9 +10,9 @@
 ### Visual
 - Façade
 - General Layout
-- Queue
+- ~~Queue~~
 - ~~Vehicle~~
-- Staff costumes
+- ~~Staff costumes~~
 - Scene art:
   - Drop off the waterfall
   - Werewolf attack
@@ -25,8 +25,8 @@
 - ~~1 - Presentation of Theme~~
 - 2 - High Concept Blurb
 - 3 - Façade
-- 4 - Queue
-- 5 - Ride Operator Costume
+- ~~4 - Queue~~
+- ~~5 - Ride Operator Costume~~
 - ~~6 - Vehicle~~
 - 7 - General Layout
 - 8 - Drop Off The Waterfall
